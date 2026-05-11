@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: inmerso-360
+    runtime: static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
